@@ -27,7 +27,8 @@ Library yang digunakan pada aplikasi ini:
 # Cara Instalasi
 1. Download terlebih dahulu aplikasi pada link berikut https://drive.google.com/file/d/1r96fKPdAv5-X_RW3pfgzN34WycL403Mo/view?usp=sharing dan  https://github.com/mochile6/TugasPAM4-AudioPlayer 
 2. Selanjutnya instal aplikasi yang telah didownload di hp android.
-3. Aplikasi siap digunakan.
+3. Berikan akses media kepada aplikasi
+4. Aplikasi siap digunakan.
 
 # Cara Penggunaan
 <b>1. Buka aplikasi Audio Player lalu aplikasi akan meminta akses ke media library.</b>
