@@ -30,6 +30,31 @@ Library yang digunakan pada aplikasi ini:
 3. Aplikasi siap digunakan.
 
 # Cara Penggunaan
-<b>1. Buka aplikasi Audio Player.</b>
+<b>1. Buka aplikasi Audio Player lalu aplikasi akan meminta akses ke media library.</b>
+<p align="center"><img width="300" src="SS/memintaAkses.jpeg" alt="meminta akses.jpeg"></p>
 
-<p align="center"><img width="300" src="Screenshot/Tampilan App.jpg" alt="Tampilan Aplikasi.jpg"></p>
+<b>2. ketika aplikasi tidak diberikan izin maka akan muncul pop up seperti di bawah ini</b>
+<p align="center"><img width="300" src="SS/permissionNote.jpeg" alt="permissionNote.jpeg"></p>
+<b> tekan tombol i am ready jika ingin memberikan akses kepada aplikasi</b>
+
+<b>3. gambaran permission ketika aplikasi sudah diberikan akses ke file and media </b>
+<p align="center"><img width="300" src="SS/Akses.jpeg" alt="Akses.jpeg"></p>
+
+<b>4. Halaman Utama Setelah Memberikan Akses Kepada Aplikasi </b>
+<p align="center"><img width="300" src="SS/Home.jpeg" alt="Home.jpeg"></p>
+
+<b>5. memulai audio dengan menekan salah satu item  </b>
+<p align="center"><img width="300" src="SS/play.jpeg" alt="play.jpeg"></p>
+
+<b>6. Pause Audio  </b>
+<p align="center"><img width="300" src="SS/pause.jpeg" alt="pause.jpeg"></p>
+
+<b>7. Resume Audio  </b>
+<p align="center"><img width="300" src="SS/play.jpeg" alt="play.jpeg"></p>
+
+<b>8. Play another audio  </b>
+<p align="center"><img width="300" src="SS/anotherAudio.jpeg" alt="anotherAudio.jpeg"></p>
+
+<b>9. Deskripsi Tombol Audio Item (?) ?  </b>
+<p align="center"><img width="300" src="SS/modals.jpeg" alt="modals.jpeg"></p>
+
